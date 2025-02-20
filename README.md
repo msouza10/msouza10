@@ -51,11 +51,7 @@
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/HCkbgKLdLWq3OCV8YM/giphy.gif?cid=790b761104upfahpf90qgk9w1qh9oe17jj97vuas8vn6b8pw&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=msouza10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msouza10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
