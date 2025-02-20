@@ -55,10 +55,13 @@
 
 ###
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msouza10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msouza10&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="https://github.com/AnubisChacal">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=msouza10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msouza10&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  </a>
+</div>
+
 
 ###
 
